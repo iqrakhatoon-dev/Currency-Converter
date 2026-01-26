@@ -4,16 +4,16 @@ A currency converter application using a real-time exchange rate API.
 
 ## 🔐 API Key Setup
 
-This project uses EmailValidation API.
+This project uses Exchangerate-api.com.
 
 Steps to run:
-1. Create a free account on EmailValidation.io
+1. Create a free account on Exchangerate-api.com
 2. Generate your API key
 3. Open `app.js`
 4. Replace `YOUR_API_KEY` with your own key
 
 Example:
-const apiKey = "ema_live_xxxxxxxxx";
+const apiKey = "xxxxxxxxx";
 
 ## 🚀 Features
 - Convert between different currencies
@@ -28,7 +28,7 @@ const apiKey = "ema_live_xxxxxxxxx";
 - Fetch API
 
 ## 🌐 API Used
-- ExchangeRate API
+- Exchangerate-api.com
 
 ## 📚 What I Learned
 - API integration
