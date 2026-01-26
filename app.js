@@ -1,6 +1,6 @@
 //Please use your own API key 
 
-const apiKey = "5b03d31798a6b5c18f403c07"
+const apiKey = "Your-Api-Key";
 const baseUrl = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/`;
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
