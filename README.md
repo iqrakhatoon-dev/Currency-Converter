@@ -9,8 +9,8 @@ This project uses Exchangerate-api.com.
 Steps to run:
 1. Create a free account on Exchangerate-api.com
 2. Generate your API key
-3. Open `app.js`
-4. Replace `YOUR_API_KEY` with your own key
+3. Open app.js
+4. Replace YOUR_API_KEY with your own key
 
 Example:
 const apiKey = "xxxxxxxxx";
