@@ -30,6 +30,11 @@ const apiKey = "xxxxxxxxx";
 ## 🌐 API Used
 - Exchangerate-api.com
 
+  ## 📸 UI Preview
+
+  <img width="1612" height="845" alt="Screenshot 2026-01-27 220512" src="https://github.com/user-attachments/assets/e162c6f3-3213-4b89-8ba9-da8dda9f3de6" />
+
+
 ## 📚 What I Learned
 - API integration
 - Async/Await
